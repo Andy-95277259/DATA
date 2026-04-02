@@ -24,3 +24,4 @@
    python code/full_reproduce.py
 3. 结果查看：
    生成的七张图片在reproduce-project/output下（PNG格式）
+   数据在reproduce-project/data下
