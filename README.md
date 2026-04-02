@@ -23,4 +23,5 @@
    cd 项目根目录
    python code/full_reproduce.py
 3. 结果查看：
+   数据在reproduce-project/data下
    生成的七张图片在reproduce-project/output下（PNG格式）
