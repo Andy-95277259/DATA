@@ -20,8 +20,7 @@
 1. 环境准备：Python 3.10
    安装依赖：pip install pandas==1.5.3 matplotlib==3.6.0
 2. 运行代码：
-   cd 项目根目录
-   python code/full_reproduce.py
+   code/full_reproduce.py
 3. 结果查看：
    数据在data下
    生成的七张图片在output下（PNG格式）
