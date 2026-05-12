@@ -4,6 +4,7 @@
 * 个人姓名：王迪月
 * Github账号：@Andy-95277259
 * 项目名称：《Effective treatment of Cu2+-containing acid mine drainage with acidic-cupric resistant electroactive biofilms》 论文复现
+* 仓库链接：https://github.com/D2RS-2026spring/DATA （相关文件已存入仓库）
 
 ## 项目内容
 1. 该论文发表于2025年的《Journal of Environmental Management》
